@@ -7,6 +7,11 @@ a{
   text-decoration: none;
   color: black;
 }
+ul{
+  margin: 0;
+  list-style: none;
+  padding: 0
+}
 .clearfix:after {
   content: "";
   display: table;

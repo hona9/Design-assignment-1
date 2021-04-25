@@ -11,12 +11,24 @@
     width: 1002px;
 }
 .left-sidebar{
-    width: 195px;
+    width: 190px;
     min-height:600px;
     float: left;
+    margin-left: 21px;
 }
 .right-sidebar{
     width: 177px;
     min-height: 600px;
     float: right;
+    margin-right: 21px;
+}
+.main-content{
+    min-height: 600px;
+    width: 520px;
+    float: left;
+    margin-left: 36px;
+}
+.footer-area{
+    width: 1002px;
+    height: 45px;
 }
