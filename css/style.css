@@ -54,9 +54,9 @@ body {
 
 .user{
     text-align: right;
-    margin-top: 28px;
+    margin-top: 22px;
     margin-right: 31px;
-    margin-bottom: 20px;
+    margin-bottom: 24px;
     font-weight: bold;
 }
 .name {
@@ -172,8 +172,8 @@ body {
     background: url('../img/utils/right-gray-box.gif');
 }
 .entries-title, .subscribed-title{
-    font-size: 14px;
-    line-height: 1.4;
+    font-size: 13px;
+    font-weight: bold;
 }
 .entries-nav ul li a, .subscribed-nav ul li a{
     background: url('../img/utils/grey-inner-tab.png') no-repeat;
